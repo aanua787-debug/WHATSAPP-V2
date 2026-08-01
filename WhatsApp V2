@@ -40,6 +40,12 @@
         "key": "MiyaxKhalifa",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "a952b5334fc27532",
+        "key": "SALMAN",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
 ]
