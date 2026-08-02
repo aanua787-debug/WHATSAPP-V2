@@ -46,6 +46,12 @@
         "key": "SALMAN",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "ecbb6e11c37f01e8",
+        "key": "ALIYA#KI#CHUT",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
 ]
