@@ -76,6 +76,12 @@
         "key": "DHRUV",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+{
+        "device_id": "8b108c7cfc0641ce",
+        "key": "8722",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
 ]
