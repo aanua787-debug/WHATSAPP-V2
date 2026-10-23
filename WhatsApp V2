@@ -91,7 +91,13 @@
     },
 {
         "device_id": "d6734c86cb92104f",
-        "key": "BLACK",
+        "key": "BLACK1",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d6734c86cb92104f",
+        "key": "BLACK1",
         "expirydate": "15-06-2029",
         "Allowoffline": false
     }
