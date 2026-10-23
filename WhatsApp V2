@@ -91,12 +91,12 @@
     },
 {
         "device_id": "d6734c86cb92104f",
-        "key": "BLACK1",
+        "key": "BLACK",
         "expirydate": "15-06-2029",
         "Allowoffline": false
     },
 {
-        "device_id": "d6734c86cb92104f",
+        "device_id": "4c4203764572a512",
         "key": "BLACK1",
         "expirydate": "15-06-2029",
         "Allowoffline": false
