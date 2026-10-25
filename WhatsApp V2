@@ -100,6 +100,12 @@
         "key": "BLACK1",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+{
+        "device_id": "89627f6c7dccfed8",
+        "key": "IRFAN1",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
 ]
