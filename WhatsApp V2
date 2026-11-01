@@ -106,6 +106,12 @@
         "key": "IRFAN1",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+{
+        "device_id": "2ccf5da7d58efb28",
+        "key": "MANSURA",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
     }
 ]
 ]
