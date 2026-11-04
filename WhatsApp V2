@@ -112,6 +112,12 @@
         "key": "MANSURA",
         "expirydate": "15-06-2029",
         "Allowoffline": false
+    },
+{
+        "device_id": "5fb4b2863b05a443",
+        "key": "SALMAAN",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
 ]
