@@ -148,6 +148,12 @@
         "key": "RAHILLIVE12",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+   },
+{
+        "device_id": "3edbf442d16a4199",
+        "key": "KAIPH1",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
 ]
