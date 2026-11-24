@@ -154,6 +154,12 @@
         "key": "KAIPH1",
         "expirydate": "15-06-2027",
         "Allowoffline": false
+    },
+{
+        "device_id": "721952a61e20f1e2",
+        "key": "VARUN",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
     }
 ]
 ]
